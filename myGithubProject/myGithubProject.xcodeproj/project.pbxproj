@@ -207,7 +207,7 @@
 				TargetAttributes = {
 					7947D0681D66F3A1008906E8 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = FTRMX46JB7;
+						DevelopmentTeam = XGQT49BKWA;
 					};
 					7947D0811D66F3A2008906E8 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -417,8 +417,9 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = myGithubProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Line.haha.myGithubProject;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LinearPlus.HiFun;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "a2fea9bc-389c-40b0-8c8e-2e9685390771";
 			};
 			name = Debug;
 		};
@@ -429,8 +430,9 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = myGithubProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Line.haha.myGithubProject;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LinearPlus.HiFun;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "a2fea9bc-389c-40b0-8c8e-2e9685390771";
 			};
 			name = Release;
 		};
@@ -499,6 +501,7 @@
 				7947D0981D66F3A2008906E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7947D0991D66F3A2008906E8 /* Build configuration list for PBXNativeTarget "myGithubProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +510,7 @@
 				7947D09B1D66F3A2008906E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7947D09C1D66F3A2008906E8 /* Build configuration list for PBXNativeTarget "myGithubProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +519,7 @@
 				7947D09E1D66F3A2008906E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
