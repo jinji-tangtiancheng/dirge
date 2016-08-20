@@ -207,7 +207,6 @@
 				TargetAttributes = {
 					7947D0681D66F3A1008906E8 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = XGQT49BKWA;
 					};
 					7947D0811D66F3A2008906E8 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -417,9 +416,9 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = myGithubProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.LinearPlus.HiFun;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LinearPlus.HiFunfuck;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "a2fea9bc-389c-40b0-8c8e-2e9685390771";
+				PROVISIONING_PROFILE = "d096db1c-de72-4f5c-ab82-742a8f960271";
 			};
 			name = Debug;
 		};
@@ -430,9 +429,9 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = myGithubProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.LinearPlus.HiFun;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LinearPlus.HiFunfuck;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "a2fea9bc-389c-40b0-8c8e-2e9685390771";
+				PROVISIONING_PROFILE = "d096db1c-de72-4f5c-ab82-742a8f960271";
 			};
 			name = Release;
 		};
