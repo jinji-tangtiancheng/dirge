@@ -415,7 +415,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = dirge/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.LinearPlus.HiFunfuck.dirge;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LinearPlus.HiFunfuck;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -426,7 +426,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = dirge/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.LinearPlus.HiFunfuck.dirge;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LinearPlus.HiFunfuck;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -496,6 +496,7 @@
 				7933D07D1D696FD3005A8AAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7933D07E1D696FD3005A8AAA /* Build configuration list for PBXNativeTarget "dirgeTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +505,7 @@
 				7933D0801D696FD3005A8AAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7933D0811D696FD3005A8AAA /* Build configuration list for PBXNativeTarget "dirgeUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +514,7 @@
 				7933D0831D696FD3005A8AAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
