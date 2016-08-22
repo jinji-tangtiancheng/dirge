@@ -25,6 +25,10 @@
     UIView *v2 = [[UIView alloc]initWithFrame:CGRectMake(0,0,50,50)];
     v2.backgroundColor = [UIColor yellowColor];
     [v1 addSubview:v2];
+    UIView *v3 = [[UIView alloc]initWithFrame:CGRectMake(100,100,100,100)];
+    v3.backgroundColor = [UIColor redColor];
+    [v1 addSubview:v23];
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
