@@ -15,6 +15,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    NSLog(@"321");
     [super viewDidLoad];NSLog(@"123");
     UIView* v=[[UIView alloc]initWithFrame:CGRectMake(0, 0, 200, 300)];
     v.backgroundColor=[UIColor greenColor];
